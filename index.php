@@ -81,9 +81,8 @@
 
 <select class="form-control" name="language">
 <option value="c">C</option>
-<option value="cpp">C++</option>
 <option value="cpp11">C++11</option>
-<option value="java">Java</option>
+<option value="cpp">SystemC</option>
 <!--<option value="python2.7">Python2</option>
 <option value="python3.2">Python2</option>-->
   
